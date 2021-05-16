@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Symulator Morski 1.unity
+    guid: 6a668c948b78f2243b0bf1aefe5964a7
+  - enabled: 1
+    path: Assets/Scenes/Symulator Morski 2.unity
+    guid: d77e6cc5c28e8934fa0a6effe377420c
+  - enabled: 1
+    path: Assets/Scenes/Symulator Morski 3.unity
+    guid: f34205ef9f4d2ce469735f7c58f577db
+  - enabled: 1
+    path: Assets/Scenes/Symulator Morski 4.unity
+    guid: 7826d2f0bbf60ed498abc4b4a9729e90
+  m_configObjects: {}

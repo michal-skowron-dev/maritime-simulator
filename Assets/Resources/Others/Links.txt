@@ -1,0 +1,8 @@
+﻿Linki do źródeł i tutoriali:
+
+Obraz:	https://forum.unity.com/attachments/upload_2015-10-9_6-57-57-png.157470
+Dźwięk:	https://www.youtube.com/watch?v=Xfks6jiS_iI
+Fizyka:	https://www.youtube.com/watch?v=FtcdkfvrQv0
+Kamera:	https://www.youtube.com/watch?v=Ta7v27yySKs
+Statek:	https://assetstore.unity.com/packages/3d/vehicles/sea/brig-sloop-sailing-ship-77862
+Teren:	Unity Standard Assets
